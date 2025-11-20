@@ -20,6 +20,7 @@ sudo pacman -S --needed --noconfirm \
     unrar \
     7zip \
     reflector \
+    nnn \
     mpv
 
 echo "Installing additional utilities with Paru..."
