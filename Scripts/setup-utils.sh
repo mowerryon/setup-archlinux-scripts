@@ -19,7 +19,8 @@ sudo pacman -S --needed --noconfirm \
     unzip \
     unrar \
     7zip \
-    reflector
+    reflector \
+    mpv
 
 echo "Installing additional utilities with Paru..."
 paru -S --needed --noconfirm gallery-dl
