@@ -9,8 +9,7 @@ sudo pacman -S --needed --noconfirm \
     ttf-dejavu \
     noto-fonts \
     noto-fonts-cjk \
-    noto-fonts-emoji \
-    inter-font
+    noto-fonts-emoji
 
 echo "Installing Microsoft fonts from AUR..."
 paru -S --noconfirm ttf-ms-fonts
