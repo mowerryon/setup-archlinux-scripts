@@ -10,6 +10,7 @@ sudo pacman -S --needed --noconfirm \
     plasma-browser-integration \
     polkit-kde-agent \
     systemsettings \
+    kscreen \
     kde-gtk-config \
     powerdevil \
     sddm \
