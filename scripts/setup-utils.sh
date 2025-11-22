@@ -8,7 +8,6 @@ sudo pacman -S --needed --noconfirm \
     bat \
     bottom \
     fish \
-    starship \
     fastfetch \
     vim \
     yt-dlp \
