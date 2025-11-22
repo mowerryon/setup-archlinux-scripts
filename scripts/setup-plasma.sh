@@ -7,6 +7,7 @@ sudo pacman -S --needed --noconfirm \
     plasma-nm \
     plasma-pa \
     plasma-firewall \
+    ufw \
     plasma-browser-integration \
     polkit-kde-agent \
     systemsettings \
